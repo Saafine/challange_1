@@ -1,0 +1,30 @@
+{
+  "parser": "babel-eslint",
+  "extends": "standard",
+  "plugins": [
+    "standard",
+    "promise",
+    "react",
+    "jsx-a11y",
+    "import"
+  ],
+  "rules": {
+    "semi": [2, "always"],
+    "id-length": 0,
+    "no-console": 0,
+    "no-unused-vars": [1, {"vars": "local", "args": "none"}],
+    "strict": 0,
+    "react/jsx-uses-react": "error",
+    "react/jsx-uses-vars": "error"
+  },
+  "env": {
+    "node": true,
+    "browser": true,
+    "es6": true
+  },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  }
+}
