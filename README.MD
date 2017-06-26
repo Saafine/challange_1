@@ -2,10 +2,10 @@
 
 **Description**: Autocomplete component example made with React
 
-- [x] Suggestions display below the input
-- [x] Filters suggestion based on country's name and code
-- [x] Clear input on blur, if not match is found
-- [x] Tab and enter for confirming input
+- [x] Suggestions displayed below the input
+- [x] Filters suggestions based on country's name and code
+- [x] Clears input on blur, if no match is found
+- [x] Tab and enter for confirming the input
 - [x] User can scroll through suggestions with up and down arrows
 - [x] Basic styling applied
 
