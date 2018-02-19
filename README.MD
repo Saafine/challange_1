@@ -1,4 +1,4 @@
-**DEMO**: http://serwer1644720.home.pl/challange_1/
+**DEMO**: REMOVED, check source
 
 **Description**: Autocomplete component example made with React
 
